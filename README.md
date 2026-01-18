@@ -10,15 +10,27 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
--  I'm from Córdoba, Argentina
-- 📚  I’m currently studying Information Systems Engineering
-- 👯 Passionate about programming.
-- 💪🏼 I'm currently learning DevOps
-- Outside tech, ⚽ I love playing and watching football and🎵 listen to music.
+- 📍 I'm from **Córdoba, Argentina**
+- 🎓 I’m currently studying **Information Systems Engineering**
+- 🤖 Passionate about **Data Science & Artificial Intelligence**
+- 📚 Currently specializing in **Machine Learning and Advanced Analytics**
+- 🚀 Expanding my skills in **DevOps** to implement robust data pipelines
 
 <hr>
 
 ## 🛠️ My Favorite Tools
+
+### **Data Science & Business Intelligence**
+![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
 
 ### **Frontend**
 ![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -27,6 +39,7 @@
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Apache ECharts](https://img.shields.io/badge/Apache%20ECharts-AA344D?style=for-the-badge&logo=apache-echarts&logoColor=white)
 
 ### **Backend**
 ![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -52,9 +65,3 @@
 ![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### **Other**
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-
